@@ -30,7 +30,7 @@ Following Modules included in the application:-
  
 # Creators
 -> Harsha Garg (Team Head) <br>
--> Gazal Aroa
--> Nikita maurya
--> Ashna V. Ajit
+-> Gazal Aroa  <br>
+-> Nikita maurya  <br>
+-> Ashna V. Ajit  <br>
 -> Arjav Jain
