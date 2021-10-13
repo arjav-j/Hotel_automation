@@ -28,3 +28,9 @@ Following Modules included in the application:-
 4. Type ```yarn install```
 5. Type ```yarn dev``` to run the application.
  
+# Creators
+-> Harsha Garg (Team Head)
+-> Gazal Aroa
+-> Nikita maurya
+-> Ashna V. Ajit
+-> Arjav Jain
