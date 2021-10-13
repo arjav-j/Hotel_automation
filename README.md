@@ -29,7 +29,7 @@ Following Modules included in the application:-
 5. Type ```yarn dev``` to run the application.
  
 # Creators
--> Harsha Garg (Team Head)
+-> Harsha Garg (Team Head) <br>
 -> Gazal Aroa
 -> Nikita maurya
 -> Ashna V. Ajit
